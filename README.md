@@ -1,2 +1,2 @@
-# week2-_python--practice
+# week2-practice-week2
 week2
